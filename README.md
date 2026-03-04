@@ -39,6 +39,7 @@ The dashboard provides insights into:
 ## 📷 Dashboard Preview
 
 <img width="1920" height="1080" alt="Screenshot 2026-03-05 001814" src="https://github.com/user-attachments/assets/7584e4ad-42e2-4f5d-a0d5-d04390e455e1" />
+<img width="1309" height="729" alt="Screenshot 2026-03-05 004854" src="https://github.com/user-attachments/assets/35964b0d-fd43-41ee-90e9-69297d5d80dc" />
 
 
 ---
